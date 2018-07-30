@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="dll" type="C#" />
+      <removed_mapping ext="dll" type="UNKNOWN" />
+    </extensionMap>
+  </component>
+</application>

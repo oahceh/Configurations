@@ -1,0 +1,46 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="259" y="108" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="962" y="438" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="576" y="344" />
+    <location key="SettingsEditor.0.0.1920.1080" x="382" y="65" />
+    <location key="#Browse_Repositories.0.0.1920.1080" x="539" y="174" />
+    <location key="#Vim_Emulation.0.0.1920.1080" x="709" y="238" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" x="650" y="320" />
+    <location key="new project wizard.0.0.1920.1080" x="534" y="130" />
+    <location key="NewModule_or_Project.wizard.0.0.1920.1080" x="397" y="172" />
+    <location key="#Project_Structure.0.0.1920.1080" x="440" y="94" />
+    <location key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor.0.0.1920.1080" x="540" y="175" />
+    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1920.1080" x="766" y="462" />
+    <location key="IdeErrosDialog.0.0.1920.1080" x="496" y="357" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080" x="550" y="87" />
+    <location key="SettingsEditor.1920.0.1920.1080" x="314" y="200" />
+    <location key="FileChooserDialogImpl.1920.0.1920.1080" x="2659" y="275" />
+    <location key="com.intellij.ide.util.TipDialog.1920.0.1920.1080" x="2512" y="344" />
+    <location key="org.intellij.images.editor.actions.SetBackgroundImageDialog.0.0.1920.1080" x="0" y="0" />
+    <location key="StructurePopup.0.0.1920.1080" x="563" y="354" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="414" y="175" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080" x="765" y="224" />
+    <location key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog.0.0.1920.1080" x="609" y="306" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.1920.1080" x="596" y="0" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1920" height="295" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1920" height="295" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1920" height="295" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1920" height="295" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1920" height="295" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1920" height="295" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1920" height="295" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1920" height="295" />
+    <size key="GridCell.Tab.2.left.0.0.1920.1080" width="1920" height="295" />
+    <size key="GridCell.Tab.2.center.0.0.1920.1080" width="1920" height="295" />
+    <size key="GridCell.Tab.2.right.0.0.1920.1080" width="1920" height="295" />
+    <size key="GridCell.Tab.2.bottom.0.0.1920.1080" width="1920" height="295" />
+    <size key="new project wizard.0.0.1920.1080" width="1062" height="742" />
+    <size key="SettingsEditor.1920.0.1920.1080" width="1069" height="785" />
+    <size key="org.intellij.images.editor.actions.SetBackgroundImageDialog.0.0.1920.1080" width="459" height="255" />
+    <size key="StructurePopup.0.0.1920.1080" width="793" height="437" />
+    <size key="SettingsEditor.0.0.1920.1080" width="1265" height="874" />
+    <size key="DebuggerActiveHint.0.0.1920.1080" width="485" height="331" />
+    <size key="FileChooserDialogImpl.0.0.1920.1080" width="682" height="512" />
+  </component>
+</application>

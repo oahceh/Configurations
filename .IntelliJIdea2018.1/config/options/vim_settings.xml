@@ -1,0 +1,913 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Combat/SkillArgConfig.lua" timestamp="1529485023772">
+        <mark key="'" line="97" column="20" />
+        <mark key="[" line="158" column="9" />
+        <mark key="]" line="158" column="43" />
+        <mark key="." line="158" column="43" />
+        <mark key="^" line="158" column="43" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Utils/list.lua" timestamp="1529927770006">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="225" column="7" />
+        <mark key="]" line="226" column="3" />
+        <mark key="." line="226" column="3" />
+        <mark key="^" line="226" column="3" />
+      </file>
+      <file name="E:/Lua/list.lua" timestamp="1528875542324">
+        <mark key="'" line="191" column="51" />
+        <mark key="[" line="207" column="14" />
+        <mark key="]" line="207" column="19" />
+        <mark key="." line="207" column="19" />
+        <mark key="^" line="207" column="19" />
+      </file>
+      <file name="/a.dummy" timestamp="1532917610655">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Logic/LHero.lua" timestamp="1532504213696">
+        <mark key="'" line="205" column="52" />
+        <mark key="[" line="154" column="4" />
+        <mark key="]" line="154" column="5" />
+        <mark key="." line="154" column="5" />
+        <mark key="^" line="154" column="5" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Formula/FAccount.lua" timestamp="1532400859975">
+        <mark key="'" line="74" column="34" />
+        <mark key="[" line="13" column="12" />
+        <mark key="]" line="13" column="24" />
+        <mark key="^" line="31" column="69" />
+        <mark key="." line="31" column="69" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/Control/GMListItem.lua" timestamp="1526637498491">
+        <mark key="'" line="41" column="46" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="64" />
+        <mark key="." line="33" column="42" />
+        <mark key="^" line="33" column="42" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Combat/GuideReport.lua" timestamp="1530343604350">
+        <mark key="'" line="376" column="0" />
+        <mark key="[" line="34" column="24" />
+        <mark key="]" line="34" column="24" />
+        <mark key="^" line="34" column="24" />
+        <mark key="." line="34" column="24" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndSkillExpConversion.lua" timestamp="1530783254404">
+        <mark key="'" line="551" column="9" />
+        <mark key="[" line="248" column="60" />
+        <mark key="]" line="248" column="66" />
+        <mark key="." line="248" column="66" />
+        <mark key="^" line="248" column="66" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Combat/BattleContext.lua" timestamp="1527755834550">
+        <mark key="'" line="130" column="34" />
+        <mark key="[" line="270" column="4" />
+        <mark key="]" line="270" column="5" />
+        <mark key="." line="270" column="5" />
+        <mark key="^" line="270" column="5" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndLogin.lua" timestamp="1532501946135">
+        <mark key="'" line="87" column="8" />
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="0" />
+        <mark key="^" line="134" column="45" />
+        <mark key="." line="149" column="0" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Utils/NTimer.lua" timestamp="1532922928508">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="50" column="7" />
+        <mark key="^" line="50" column="7" />
+        <mark key="." line="50" column="7" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Combat/HierarchyBRP.lua" timestamp="1530774596336">
+        <mark key="'" line="40" column="47" />
+        <mark key="[" line="277" column="4" />
+        <mark key="]" line="277" column="5" />
+        <mark key="." line="277" column="5" />
+        <mark key="^" line="277" column="5" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Utils/CsvParser.lua" timestamp="1530775927966">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="51" column="40" />
+        <mark key="]" line="51" column="47" />
+        <mark key="." line="51" column="47" />
+        <mark key="^" line="51" column="47" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndSkillDetail.lua" timestamp="1532684019830">
+        <mark key="'" line="41" column="1" />
+        <mark key="[" line="350" column="40" />
+        <mark key="]" line="350" column="40" />
+        <mark key="." line="350" column="40" />
+        <mark key="^" line="350" column="40" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Logic/LLogin.lua" timestamp="1532679321548">
+        <mark key="'" line="188" column="18" />
+        <mark key="[" line="182" column="0" />
+        <mark key="]" line="183" column="28" />
+        <mark key="^" line="183" column="28" />
+        <mark key="." line="183" column="28" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Combat/STActionPlayer.lua" timestamp="1524728066705">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="82" column="48" />
+        <mark key="]" line="82" column="48" />
+        <mark key="." line="82" column="48" />
+        <mark key="^" line="82" column="48" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Logic/LBattleReport.lua" timestamp="1531994114527">
+        <mark key="'" line="365" column="33" />
+        <mark key="[" line="153" column="40" />
+        <mark key="]" line="153" column="49" />
+        <mark key="." line="153" column="49" />
+        <mark key="^" line="153" column="49" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/Control/HeroItem.lua" timestamp="1530067971787">
+        <mark key="'" line="19" column="27" />
+        <mark key="[" line="37" column="80" />
+        <mark key="]" line="37" column="80" />
+        <mark key="." line="37" column="80" />
+        <mark key="^" line="37" column="80" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" timestamp="1532698475988">
+        <mark key="'" line="680" column="2" />
+        <mark key="[" line="581" column="14" />
+        <mark key="]" line="581" column="18" />
+        <mark key="^" line="581" column="18" />
+        <mark key="." line="581" column="18" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndSkillList.lua" timestamp="1531991933712">
+        <mark key="'" line="108" column="78" />
+        <mark key="[" line="116" column="60" />
+        <mark key="]" line="116" column="60" />
+        <mark key="^" line="104" column="16" />
+        <mark key="." line="116" column="60" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Res/GameConfig/hero.csv" timestamp="1531991173568">
+        <mark key="'" line="0" column="2" />
+        <mark key="[" line="0" column="268" />
+        <mark key="]" line="0" column="267" />
+        <mark key="^" line="0" column="267" />
+        <mark key="." line="0" column="267" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndLoginPub.lua" timestamp="1532398916329">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="305" column="0" />
+        <mark key="]" line="305" column="39" />
+        <mark key="^" line="170" column="3" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndCombat.lua" timestamp="1532923387979">
+        <mark key="[" line="76" column="41" />
+        <mark key="]" line="77" column="26" />
+        <mark key="." line="77" column="26" />
+        <mark key="^" line="77" column="26" />
+      </file>
+      <file name="E:/Algorithm-Princeton/StackAndQueue/src/Permutation.java" timestamp="1529655361380">
+        <mark key="'" line="10" column="37" />
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+        <mark key="^" line="4" column="17" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndMgr.lua" timestamp="1532492147817">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndBase.lua" timestamp="1532481934513">
+        <mark key="'" line="93" column="18" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/Control/ServerListItem.lua" timestamp="1532492260741">
+        <mark key="'" line="7" column="4" />
+        <mark key="[" line="38" column="24" />
+        <mark key="]" line="38" column="48" />
+        <mark key="^" line="1" column="29" />
+        <mark key="." line="1" column="29" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Logic/LLocalization.lua" timestamp="1531707858777">
+        <mark key="'" line="31" column="29" />
+        <mark key="[" line="23" column="51" />
+        <mark key="]" line="23" column="51" />
+        <mark key="." line="23" column="51" />
+        <mark key="^" line="23" column="50" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Logic/LBattleMap.lua" timestamp="1524883489836">
+        <mark key="'" line="20" column="22" />
+        <mark key="[" line="32" column="4" />
+        <mark key="]" line="32" column="5" />
+        <mark key="." line="32" column="5" />
+        <mark key="^" line="32" column="5" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Utils/SCommon.lua" timestamp="1532483381514">
+        <mark key="'" line="89" column="17" />
+        <mark key="[" line="17" column="37" />
+        <mark key="]" line="18" column="18" />
+        <mark key="." line="18" column="18" />
+        <mark key="^" line="18" column="18" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Combat/Buff/Buff31001.lua" timestamp="1524650474436">
+        <mark key="'" line="10" column="82" />
+        <mark key="[" line="34" column="56" />
+        <mark key="]" line="34" column="56" />
+        <mark key="^" line="34" column="56" />
+        <mark key="." line="34" column="56" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Utils/SpriteMgr.lua" timestamp="1524195579398">
+        <mark key="'" line="24" column="37" />
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="3" column="6" />
+        <mark key="^" line="3" column="6" />
+        <mark key="." line="3" column="6" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/Control/HeroHeadItem.lua" timestamp="1530238156479">
+        <mark key="'" line="35" column="60" />
+        <mark key="[" line="38" column="3" />
+        <mark key="]" line="38" column="12" />
+        <mark key="." line="38" column="12" />
+        <mark key="^" line="38" column="12" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Render/UIHelper.lua" timestamp="1532056504071">
+        <mark key="'" line="325" column="7" />
+        <mark key="[" line="293" column="93" />
+        <mark key="]" line="293" column="97" />
+        <mark key="." line="293" column="97" />
+        <mark key="^" line="293" column="97" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Combat/Buff/Buff176001.lua" timestamp="1524212279032">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="52" column="56" />
+        <mark key="]" line="52" column="56" />
+        <mark key="." line="52" column="56" />
+        <mark key="^" line="52" column="56" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Logic/LMgr.lua" timestamp="1532399609362">
+        <mark key="'" line="33" column="23" />
+        <mark key="[" line="1" column="3" />
+        <mark key="]" line="1" column="20" />
+        <mark key="." line="1" column="20" />
+        <mark key="^" line="1" column="20" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Test/NTUtils.lua" timestamp="1532923005833">
+        <mark key="[" line="6" column="64" />
+        <mark key="]" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+        <mark key="^" line="7" column="15" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Utils/Timer.lua" timestamp="1532915359047">
+        <mark key="[" line="54" column="39" />
+        <mark key="]" line="56" column="13" />
+        <mark key="." line="56" column="13" />
+        <mark key="^" line="56" column="13" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Logic/LSkill.lua" timestamp="1532436315617">
+        <mark key="'" line="292" column="54" />
+        <mark key="[" line="10" column="37" />
+        <mark key="]" line="11" column="24" />
+        <mark key="^" line="11" column="24" />
+        <mark key="." line="11" column="24" />
+      </file>
+      <file name="E:/Algorithm-Princeton/StackAndQueue/src/Deque.java" timestamp="1529655367459">
+        <mark key="'" line="118" column="0" />
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="154" column="31" />
+        <mark key="." line="154" column="0" />
+        <mark key="^" line="161" column="21" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/GlobalConfig.lua" timestamp="1532500922946">
+        <mark key="'" line="10" column="2" />
+        <mark key="[" line="16" column="15" />
+        <mark key="]" line="16" column="19" />
+        <mark key="^" line="16" column="19" />
+        <mark key="." line="16" column="19" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Map/RMap.lua" timestamp="1530497451748">
+        <mark key="'" line="343" column="38" />
+        <mark key="[" line="362" column="38" />
+        <mark key="]" line="362" column="41" />
+        <mark key="^" line="362" column="41" />
+        <mark key="." line="362" column="41" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Combat/SCombatMgr.lua" timestamp="1532337944070">
+        <mark key="'" line="31" column="5" />
+        <mark key="[" line="1" column="32" />
+        <mark key="]" line="1" column="32" />
+        <mark key="." line="1" column="32" />
+        <mark key="^" line="1" column="32" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Logic/LGameInit.lua" timestamp="1527847288213">
+        <mark key="'" line="13" column="28" />
+        <mark key="[" line="21" column="36" />
+        <mark key="]" line="21" column="39" />
+        <mark key="^" line="21" column="39" />
+        <mark key="." line="21" column="39" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Combat/CombatMap.lua" timestamp="1529483790783">
+        <mark key="'" line="122" column="40" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndMapPopup.lua" timestamp="1531807968741">
+        <mark key="'" line="110" column="48" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Res/GameConfig/skill_base.csv" timestamp="1531991157681">
+        <mark key="'" line="13" column="66" />
+        <mark key="[" line="0" column="90" />
+        <mark key="]" line="0" column="89" />
+        <mark key="." line="0" column="89" />
+        <mark key="^" line="0" column="89" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Formula/FHero.lua" timestamp="1530094762415">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="72" column="19" />
+        <mark key="]" line="72" column="26" />
+        <mark key="^" line="119" column="41" />
+        <mark key="." line="119" column="41" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Res/Protobuf/def.proto" timestamp="1532692052572">
+        <mark key="'" line="8" column="5" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroAwake.lua" timestamp="1530068044584">
+        <mark key="'" line="7" column="6" />
+        <mark key="[" line="197" column="88" />
+        <mark key="]" line="197" column="88" />
+        <mark key="." line="197" column="88" />
+        <mark key="^" line="197" column="88" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Utils/EventMgr.lua" timestamp="1532421185604">
+        <mark key="'" line="125" column="56" />
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="14" column="28" />
+        <mark key="." line="14" column="28" />
+        <mark key="^" line="14" column="28" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndPowerRank.lua" timestamp="1528356356147">
+        <mark key="'" line="40" column="9" />
+        <mark key="[" line="89" column="62" />
+        <mark key="]" line="89" column="68" />
+        <mark key="^" line="89" column="68" />
+        <mark key="." line="89" column="68" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Net/SendMgr.lua" timestamp="1530777429799">
+        <mark key="'" line="56" column="22" />
+        <mark key="[" line="38" column="81" />
+        <mark key="]" line="38" column="81" />
+        <mark key="^" line="38" column="81" />
+        <mark key="." line="38" column="81" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndAdvanced.lua" timestamp="1526454201018">
+        <mark key="'" line="9" column="15" />
+        <mark key="[" line="6" column="48" />
+        <mark key="]" line="6" column="62" />
+        <mark key="." line="6" column="48" />
+        <mark key="^" line="6" column="13" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndGM.lua" timestamp="1532335263236">
+        <mark key="'" line="146" column="71" />
+        <mark key="[" line="98" column="22" />
+        <mark key="]" line="98" column="29" />
+        <mark key="." line="98" column="29" />
+        <mark key="^" line="98" column="29" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndBattleReportDetail.lua" timestamp="1531992404776">
+        <mark key="'" line="183" column="12" />
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="11" />
+        <mark key="." line="149" column="0" />
+        <mark key="^" line="151" column="7" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Combat/Buff/BuffMgr.lua" timestamp="1524818800116">
+        <mark key="'" line="95" column="26" />
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="13" />
+        <mark key="." line="11" column="13" />
+        <mark key="^" line="11" column="13" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/N1LuaRoot.lua" timestamp="1532917712828">
+        <mark key="'" line="90" column="13" />
+        <mark key="[" line="71" column="15" />
+        <mark key="]" line="72" column="16" />
+        <mark key="." line="72" column="16" />
+        <mark key="^" line="72" column="16" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Formula/FTroop.lua" timestamp="1525331844197">
+        <mark key="'" line="71" column="13" />
+        <mark key="[" line="69" column="144" />
+        <mark key="]" line="69" column="144" />
+        <mark key="." line="69" column="144" />
+        <mark key="^" line="69" column="144" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Render/ImageMgr.lua" timestamp="1531991320878">
+        <mark key="'" line="48" column="18" />
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="^" line="72" column="76" />
+        <mark key="." line="122" column="0" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Combat/Buff/Buff37002.lua" timestamp="1526981036076">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="3" column="8" />
+        <mark key="^" line="3" column="8" />
+        <mark key="." line="3" column="8" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Combat/Buff/Buff.lua" timestamp="1524715092057">
+        <mark key="'" line="47" column="2" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="54" column="9" />
+        <mark key="^" line="54" column="9" />
+        <mark key="." line="54" column="9" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Res/Combat/Data/SA_common.xml" timestamp="1532073933058">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="115" column="8" />
+        <mark key="]" line="122" column="16" />
+        <mark key="^" line="146" column="18" />
+        <mark key="." line="146" column="18" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/GlobalFunc.lua" timestamp="1532404004807">
+        <mark key="'" line="14" column="7" />
+        <mark key="[" line="55" column="9" />
+        <mark key="]" line="55" column="11" />
+        <mark key="." line="55" column="11" />
+        <mark key="^" line="55" column="11" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Res/Combat/Data/SA_buff.xml" timestamp="1531710520401">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="28" column="4" />
+        <mark key="]" line="47" column="16" />
+        <mark key="^" line="302" column="23" />
+        <mark key="." line="302" column="23" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Utils/SDebug.lua" timestamp="1529399390278">
+        <mark key="'" line="45" column="15" />
+        <mark key="[" line="79" column="21" />
+        <mark key="]" line="79" column="21" />
+        <mark key="." line="79" column="21" />
+        <mark key="^" line="79" column="21" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Render/UIWidget.lua" timestamp="1530599388600">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Combat/Fighter.lua" timestamp="1524204876457">
+        <mark key="'" line="48" column="26" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="^" line="123" column="34" />
+        <mark key="." line="124" column="0" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Test/NTBattle.lua" timestamp="1532919201552">
+        <mark key="'" line="2" column="10" />
+        <mark key="[" line="66" column="43" />
+        <mark key="]" line="66" column="43" />
+        <mark key="." line="66" column="43" />
+        <mark key="^" line="66" column="43" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Combat/NUCombat.lua" timestamp="1530346417479">
+        <mark key="'" line="14" column="30" />
+        <mark key="[" line="59" column="51" />
+        <mark key="]" line="59" column="52" />
+        <mark key="." line="59" column="52" />
+        <mark key="^" line="59" column="52" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Net/GameServer.lua" timestamp="1532058059318">
+        <mark key="'" line="71" column="4" />
+        <mark key="[" line="70" column="31" />
+        <mark key="]" line="71" column="25" />
+        <mark key="." line="71" column="25" />
+        <mark key="^" line="71" column="25" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Combat/Buff/Buff19001.lua" timestamp="1529897103046">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="16" column="76" />
+        <mark key="]" line="16" column="79" />
+        <mark key="." line="16" column="79" />
+        <mark key="^" line="16" column="79" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Combat/ActionHandlers.lua" timestamp="1527041958385">
+        <mark key="'" line="158" column="26" />
+        <mark key="[" line="158" column="22" />
+        <mark key="]" line="158" column="48" />
+        <mark key="." line="158" column="48" />
+        <mark key="^" line="158" column="48" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndPropertyPopup.lua" timestamp="1531709967707">
+        <mark key="'" line="36" column="29" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="60" column="20" />
+        <mark key="." line="80" column="0" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Test/N1Test.lua" timestamp="1532920453733">
+        <mark key="'" line="5" column="2" />
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="10" column="20" />
+        <mark key="^" line="10" column="20" />
+        <mark key="." line="10" column="20" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Combat/BlogParsers.lua" timestamp="1529896231483">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="167" column="89" />
+        <mark key="]" line="167" column="108" />
+        <mark key="." line="167" column="108" />
+        <mark key="^" line="167" column="108" />
+      </file>
+      <file name="E:/Algorithm-Princeton/StackAndQueue/src/RandomizedQueue.java" timestamp="1529656195176">
+        <mark key="'" line="70" column="48" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="^" line="129" column="26" />
+        <mark key="." line="136" column="0" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/Control/BattleReportListItem.lua" timestamp="1531990482170">
+        <mark key="'" line="164" column="41" />
+        <mark key="[" line="77" column="45" />
+        <mark key="]" line="77" column="54" />
+        <mark key="." line="77" column="54" />
+        <mark key="^" line="77" column="54" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Res/GameConfig/local_auto.csv" timestamp="1531821505462">
+        <mark key="'" line="16" column="18" />
+        <mark key="[" line="1008" column="23" />
+        <mark key="]" line="1008" column="23" />
+        <mark key="." line="1008" column="23" />
+        <mark key="^" line="1008" column="22" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Logic/LResource.lua" timestamp="1530607336555">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+        <mark key="^" line="109" column="7" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndLoginDev.lua" timestamp="1532501934471">
+        <mark key="'" line="235" column="0" />
+        <mark key="[" line="178" column="0" />
+        <mark key="]" line="178" column="91" />
+        <mark key="^" line="58" column="26" />
+        <mark key="." line="59" column="0" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/Control/StateBar.lua" timestamp="1530339017277">
+        <mark key="'" line="77" column="21" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="^" line="69" column="58" />
+        <mark key="." line="68" column="0" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Utils/UIHelper.lua" timestamp="1524463870102">
+        <mark key="'" line="177" column="53" />
+        <mark key="[" line="223" column="35" />
+        <mark key="]" line="223" column="43" />
+        <mark key="." line="223" column="35" />
+        <mark key="^" line="222" column="34" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/Utils/HeroLevelIcon.lua" timestamp="1530241089148">
+        <mark key="'" line="24" column="44" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="41" column="10" />
+        <mark key="^" line="41" column="10" />
+        <mark key="." line="41" column="10" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Formula/FCombat.lua" timestamp="1526981529192">
+        <mark key="'" line="83" column="35" />
+        <mark key="[" line="36" column="11" />
+        <mark key="]" line="36" column="24" />
+        <mark key="." line="36" column="24" />
+        <mark key="^" line="36" column="24" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Res/Combat/Data/SA_41_60.xml" timestamp="1529567041162">
+        <mark key="'" line="88" column="43" />
+        <mark key="[" line="88" column="41" />
+        <mark key="]" line="88" column="41" />
+        <mark key="." line="88" column="41" />
+        <mark key="^" line="88" column="41" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Formula/FMap.lua" timestamp="1530519906247">
+        <mark key="'" line="133" column="35" />
+        <mark key="[" line="140" column="51" />
+        <mark key="]" line="140" column="50" />
+        <mark key="^" line="140" column="50" />
+        <mark key="." line="140" column="50" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndRideDispatchConfirm.lua" timestamp="1530238098275">
+        <mark key="'" line="237" column="39" />
+        <mark key="[" line="333" column="0" />
+        <mark key="]" line="333" column="0" />
+        <mark key="^" line="477" column="0" />
+        <mark key="." line="333" column="0" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndTroopDetail.lua" timestamp="1528351468873">
+        <mark key="'" line="92" column="41" />
+        <mark key="[" line="124" column="52" />
+        <mark key="]" line="124" column="52" />
+        <mark key="^" line="124" column="52" />
+        <mark key="." line="124" column="52" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Formula/FFighter.lua" timestamp="1524192862352">
+        <mark key="'" line="150" column="14" />
+        <mark key="[" line="172" column="5" />
+        <mark key="]" line="172" column="11" />
+        <mark key="." line="172" column="11" />
+        <mark key="^" line="172" column="11" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndBattleStatistic.lua" timestamp="1529373147191">
+        <mark key="'" line="98" column="42" />
+        <mark key="[" line="178" column="19" />
+        <mark key="]" line="178" column="45" />
+        <mark key="." line="178" column="45" />
+        <mark key="^" line="178" column="45" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Logic/LUser.lua" timestamp="1532335324135">
+        <mark key="'" line="97" column="21" />
+        <mark key="[" line="92" column="24" />
+        <mark key="]" line="92" column="53" />
+        <mark key="." line="92" column="53" />
+        <mark key="^" line="92" column="53" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="181" column="17" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="571" column="8" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="654" column="17" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="655" column="10" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="669" column="4" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="681" column="10" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="355" column="21" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndSkillDetail.lua" />
+      <jump line="202" column="22" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndSkillDetail.lua" />
+      <jump line="135" column="66" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndSkillDetail.lua" />
+      <jump line="40" column="6" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndSkillDetail.lua" />
+      <jump line="385" column="4" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndSkillDetail.lua" />
+      <jump line="41" column="1" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndSkillDetail.lua" />
+      <jump line="208" column="0" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="440" column="46" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="742" column="3" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="285" column="89" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="319" column="58" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="364" column="52" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="284" column="17" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="373" column="18" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="379" column="18" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="584" column="18" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="590" column="18" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="168" column="13" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="283" column="17" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="151" column="13" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="154" column="15" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="720" column="15" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="721" column="15" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="722" column="16" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="58" column="6" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="147" column="17" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="162" column="17" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="277" column="4" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="316" column="8" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="371" column="25" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="377" column="25" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="582" column="25" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="659" column="4" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="15" column="4" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="24" column="4" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="214" column="28" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="719" column="28" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="570" column="7" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="212" column="7" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="238" column="55" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="323" column="13" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="588" column="26" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="589" column="60" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="673" column="22" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="674" column="63" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="683" column="56" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="688" column="22" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="689" column="56" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="727" column="32" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="728" column="34" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="729" column="34" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="730" column="34" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="70" column="6" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="161" column="19" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="163" column="9" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="172" column="10" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="174" column="26" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="175" column="60" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="206" column="26" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="215" column="32" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="216" column="34" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="217" column="34" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="218" column="34" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="572" column="8" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="675" column="8" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="204" column="15" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="207" column="15" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="8" column="5" filename="E:/N1/client/N1/Assets/Res/Protobuf/def.proto" />
+      <jump line="684" column="24" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="173" column="0" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="205" column="18" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="581" column="18" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="696" column="10" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="711" column="10" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="182" column="17" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="665" column="10" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="667" column="10" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="680" column="2" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" />
+      <jump line="58" column="2" filename="E:/N1/client/N1/Assets/Slua/SluaCode/Utils/NTimer.lua" />
+      <jump line="11" column="15" filename="E:/N1/client/N1/Assets/Slua/SluaCode/Utils/NTimer.lua" />
+      <jump line="7" column="6" filename="E:/N1/client/N1/Assets/Slua/SluaCode/Utils/NTimer.lua" />
+      <jump line="56" column="15" filename="E:/N1/client/N1/Assets/Slua/SluaCode/Utils/NTimer.lua" />
+      <jump line="72" column="16" filename="E:/N1/client/N1/Assets/Slua/SluaCode/N1LuaRoot.lua" />
+      <jump line="90" column="13" filename="E:/N1/client/N1/Assets/Slua/SluaCode/N1LuaRoot.lua" />
+      <jump line="411" column="26" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndCombat.lua" />
+      <jump line="62" column="0" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndCombat.lua" />
+      <jump line="412" column="4" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndCombat.lua" />
+      <jump line="74" column="22" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndCombat.lua" />
+      <jump line="151" column="12" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndCombat.lua" />
+      <jump line="75" column="3" filename="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndCombat.lua" />
+      <jump line="83" column="0" filename="E:/N1/client/N1/Assets/Slua/SluaCode/Utils/NTimer.lua" />
+      <jump line="10" column="15" filename="E:/N1/client/N1/Assets/Slua/SluaCode/Utils/NTimer.lua" />
+      <jump line="60" column="27" filename="E:/N1/client/N1/Assets/Slua/SluaCode/Utils/NTimer.lua" />
+      <jump line="40" column="64" filename="E:/N1/client/N1/Assets/Slua/SluaCode/Utils/NTimer.lua" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>true</text>
+      </register>
+      <register name="-" type="4">
+        <text>true</text>
+      </register>
+      <register name="/" type="4">
+        <text>print</text>
+      </register>
+      <register name="0" type="4">
+        <text>for _, v in pairs(stateBars) do
+        local _, bar = unpack(v)
+        bar:UpdateBuffSwitch(deltaTime, 1.0)
+    end</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGJ1ZmZTd2l0Y2hUaW1lciA9IE5UaW1lci5Db3VudGRvd24oMSwgU3dpdGNoQnVmZnMsIHRydWUsIHRydWUpCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC0tRnJhbWVVcGRhdGVNZ3IuUmVnaXN0ZXJGaXhlZFVwZGF0ZSgiV25kQ29tYmF0Iiwgc2VsZi5GaXhlZFVwZGF0ZSkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIFIK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJldHVybiB0aW1lcgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaW50KHRpbWVyKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text>-- 倒计时触发
+local function Countdown(timer, seconds, callback, isRepeat, immediately)
+    SDAssert(seconds, 'Nil count down time')
+    timer.startTime = 0
+    timer.endTime = seconds
+    timer.callback = callback
+    timer.isRepeat = isRepeat
+    timer.isActive = immediately
+end</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgZQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>print</last-search>
+      <last-offset />
+      <last-pattern>print</last-pattern>
+      <last-replace>isActive</last-replace>
+      <last-substitute>isRunning</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>gatewayobj</entry>
+        <entry>bulletin</entry>
+        <entry encoding="base64">XDxSZWZyZXNoXD4=</entry>
+        <entry encoding="base64">XDxTZXRQbHVzVmFsdWVcPg==</entry>
+        <entry encoding="base64">XDxDcmVhdGVDaGFyXD4=</entry>
+        <entry encoding="base64">XDxSZW1vdmVUaW1lclw+</entry>
+        <entry encoding="base64">XDxhdHRhY2tUeXBlSW1nQ29tXD4=</entry>
+        <entry>btnplus</entry>
+        <entry encoding="base64">XDxidG5QbHVzXD4=</entry>
+        <entry encoding="base64">XDxsZWZ0UGx1c1RleHRcPg==</entry>
+        <entry encoding="base64">XDxwcm9wZXJ0eUl0ZW1zXD4=</entry>
+        <entry encoding="base64">XDxBdGtcPg==</entry>
+        <entry>plus</entry>
+        <entry encoding="base64">XDxBZGRQcm9wZXJ0eVZhbHVlXD4=</entry>
+        <entry>2028</entry>
+        <entry>removetimer</entry>
+        <entry>%s</entry>
+        <entry>isRunning</entry>
+        <entry encoding="base64">XDxhY3RpdmVUaW1lcnNcPg==</entry>
+        <entry>print</entry>
+      </history-search>
+      <history-cmd>
+        <entry>Lw</entry>
+        <entry>we</entry>
+        <entry>ew</entry>
+        <entry>%s/RedrawGate_dev/RefreshGate_DEV/gc</entry>
+        <entry>%s/RedrawServerList_dev/RefreshServerList_DEV/gc</entry>
+        <entry>%s/OnLoaded_pub/OnLoaded_PUB/gc</entry>
+        <entry>%s/RedrawAccount_pub/RefreshAccount_PUB/gc</entry>
+        <entry>%s/RedrawServerList_pub/RefreshServerList_PUB/gc</entry>
+        <entry>%s/RedrawGate_pub/RefreshGate_PUB/gc</entry>
+        <entry>%s/WndLogin/WndLoginPub/gc</entry>
+        <entry>%s/WndLogin/WndLoginDev/gc</entry>
+        <entry>%s/WndLoginPub/WndLogin/gc</entry>
+        <entry>%s/self.DiceObj/diceObj/gc</entry>
+        <entry>%s/WndLogin.DiceObj/diceObj/gc</entry>
+        <entry>%s/RefreshServers/RefreshServerList</entry>
+        <entry>set ignorecase</entry>
+        <entry>%s/isRunning/isActive/gc</entry>
+        <entry>wq</entry>
+        <entry>q</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
