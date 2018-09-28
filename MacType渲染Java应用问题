@@ -1,0 +1,6 @@
+MacType在渲染Java应用中的字体的时候，可能会出现上下端发像素丢失发虚的情况，需要在配置文件中加上：
+
+[Experimental@idea.exe]
+ClipBoxFix=1
+
+其中，idea.exe是进程可执行文件名称
