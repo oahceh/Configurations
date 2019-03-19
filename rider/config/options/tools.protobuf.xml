@@ -1,0 +1,9 @@
+<application>
+  <component name="ProtobufSettings">
+    <option name="includePaths">
+      <list>
+        <option value="E:/N1/client/N1/Assets/Res/Protobuf" />
+      </list>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,23 @@
+<scheme name="_@user_Visual Studio Dark" version="142" parent_scheme="Visual Studio Dark">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2018-11-08T10:34:56</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2018.3.0.0</property>
+    <property name="modified">2019-03-07T13:44:41</property>
+    <property name="originalScheme">Visual Studio Dark</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_NAME" value="Monaco" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <attributes>
+    <option name="LUA_UP_VALUE">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="a8c023" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

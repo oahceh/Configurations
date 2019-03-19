@@ -1,0 +1,1384 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/EntityCity.lua" timestamp="1552718347188">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="26" column="27" />
+        <mark key="]" line="26" column="63" />
+        <mark key="." line="26" column="63" />
+        <mark key="^" line="26" column="63" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/Logic/LBattleMgr.lua" timestamp="1552444401328">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="5" />
+        <mark key="^" line="4" column="5" />
+        <mark key="." line="4" column="5" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/Logic/LMapEntityMgr.lua" timestamp="1552125830351">
+        <mark key="'" line="48" column="6" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="72" column="7" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1552978680427">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/Script/Combat/CombatDef.cs" timestamp="1552639721125">
+        <mark key="[" line="44" column="4" />
+        <mark key="]" line="46" column="55" />
+      </file>
+      <file name="E:/gdy/Assets/Framework/Script/Act/Lib/ActTrackEffect.cs" timestamp="1552639697817">
+        <mark key="[" line="191" column="44" />
+        <mark key="]" line="191" column="49" />
+        <mark key="." line="191" column="49" />
+        <mark key="^" line="191" column="49" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Logic/LHero.lua" timestamp="1544774989804">
+        <mark key="'" line="10" column="4" />
+        <mark key="[" line="552" column="11" />
+        <mark key="]" line="552" column="38" />
+        <mark key="." line="552" column="38" />
+        <mark key="^" line="552" column="38" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/Logic/FakeServer.lua" timestamp="1552551474249">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="208" column="13" />
+        <mark key="]" line="208" column="24" />
+        <mark key="." line="208" column="13" />
+        <mark key="^" line="208" column="17" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Utils/NTimer.lua" timestamp="1544599626448">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="6" column="14" />
+        <mark key="." line="6" column="14" />
+        <mark key="^" line="6" column="14" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/Framework/Script/Act/Lib/ActLuaFunc.cs" timestamp="1552461885832">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="11" column="16" />
+        <mark key="." line="43" column="0" />
+      </file>
+      <file name="E:/gdy/Assets/Framework/Script/Act/Lib/ActEffect.cs" timestamp="1552639623180">
+        <mark key="'" line="93" column="24" />
+        <mark key="[" line="93" column="24" />
+        <mark key="]" line="93" column="29" />
+        <mark key="." line="93" column="24" />
+        <mark key="^" line="158" column="38" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/Troop.lua" timestamp="1552720955228">
+        <mark key="'" line="14" column="4" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
+        <mark key="^" line="125" column="16" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Logic/LBattleReport.lua" timestamp="1545032713003">
+        <mark key="'" line="871" column="8" />
+        <mark key="[" line="855" column="23" />
+        <mark key="]" line="856" column="25" />
+        <mark key="." line="856" column="25" />
+        <mark key="^" line="856" column="25" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Script/Combat/ActAreaEffect.cs" timestamp="1544513000362">
+        <mark key="'" line="141" column="29" />
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="74" />
+        <mark key="^" line="176" column="15" />
+        <mark key="." line="177" column="0" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Editor/Build/BuildIOSPlayer.cs" timestamp="1545199212011">
+        <mark key="'" line="52" column="5" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="1" />
+        <mark key="." line="70" column="1" />
+        <mark key="^" line="70" column="1" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/Entity/Entity.lua" timestamp="1552978349794">
+        <mark key="'" line="17" column="16" />
+        <mark key="[" line="18" column="22" />
+        <mark key="]" line="18" column="27" />
+        <mark key="." line="18" column="27" />
+        <mark key="^" line="18" column="27" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Editor/BattleEditor/ActEditor/ActTrackEffectEditor.cs" timestamp="1542337542617">
+        <mark key="'" line="79" column="0" />
+        <mark key="[" line="42" column="61" />
+        <mark key="]" line="42" column="61" />
+        <mark key="." line="42" column="61" />
+        <mark key="^" line="42" column="61" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Editor/BattleEditor/BattleUtils.cs" timestamp="1542347851277">
+        <mark key="'" line="174" column="0" />
+        <mark key="[" line="39" column="12" />
+        <mark key="]" line="39" column="27" />
+        <mark key="." line="39" column="27" />
+        <mark key="^" line="39" column="27" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/LuaRootInit.lua" timestamp="1552977565763">
+        <mark key="'" line="58" column="17" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="." line="152" column="0" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Script/Logo/Bundle/Editor/BuildPanel.cs" timestamp="1542096080229">
+        <mark key="'" line="174" column="37" />
+        <mark key="[" line="344" column="0" />
+        <mark key="]" line="344" column="24" />
+        <mark key="^" line="343" column="15" />
+        <mark key="." line="344" column="0" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/TFW/Utils/SCommon.lua" timestamp="1552373793153">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1211" column="7" />
+        <mark key="]" line="1212" column="13" />
+        <mark key="^" line="1212" column="13" />
+        <mark key="." line="1212" column="13" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/Framework/Script/Act/Actor.cs" timestamp="1552712083960">
+        <mark key="'" line="397" column="7" />
+        <mark key="[" line="126" column="74" />
+        <mark key="]" line="126" column="77" />
+        <mark key="." line="126" column="77" />
+        <mark key="^" line="126" column="77" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndBase.lua" timestamp="1545034702326">
+        <mark key="'" line="474" column="17" />
+        <mark key="[" line="303" column="7" />
+        <mark key="]" line="304" column="7" />
+        <mark key="^" line="304" column="7" />
+        <mark key="." line="304" column="7" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Editor/XLua/XLuaExport.cs" timestamp="1545101981164">
+        <mark key="'" line="37" column="17" />
+        <mark key="[" line="520" column="8" />
+        <mark key="]" line="521" column="31" />
+        <mark key="^" line="520" column="7" />
+        <mark key="." line="520" column="8" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/Framework/Script/Act/Editor/ActEditor/ActLuaFuncEditor.cs" timestamp="1552461942365">
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+        <mark key="^" line="8" column="23" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/Formations.lua" timestamp="1552713358071">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="35" column="7" />
+        <mark key="." line="35" column="7" />
+        <mark key="^" line="35" column="7" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Script/Combat/ActEffect.cs" timestamp="1542332959610">
+        <mark key="'" line="275" column="4" />
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="28" />
+        <mark key="^" line="147" column="15" />
+        <mark key="." line="148" column="0" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/Logic/LViewportMgr.lua" timestamp="1552355522396">
+        <mark key="'" line="98" column="22" />
+        <mark key="[" line="132" column="61" />
+        <mark key="]" line="132" column="61" />
+        <mark key="." line="132" column="61" />
+        <mark key="^" line="132" column="61" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/Framework/Script/Act/Editor/BattleUtils.cs" timestamp="1552462363139">
+        <mark key="[" line="269" column="68" />
+        <mark key="]" line="269" column="74" />
+        <mark key="^" line="269" column="74" />
+        <mark key="." line="269" column="74" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/Editor/XLua/XLuaExport.cs" timestamp="1552724065993">
+        <mark key="'" line="123" column="5" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="122" column="25" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Editor/BattleEditor/ActSetDataManagerEditor.cs" timestamp="1542790815045">
+        <mark key="'" line="16" column="60" />
+        <mark key="[" line="112" column="51" />
+        <mark key="]" line="112" column="67" />
+        <mark key="^" line="112" column="67" />
+        <mark key="." line="112" column="67" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Logic/LCity.lua" timestamp="1544860733749">
+        <mark key="'" line="112" column="5" />
+        <mark key="[" line="338" column="60" />
+        <mark key="]" line="338" column="64" />
+        <mark key="^" line="338" column="64" />
+        <mark key="." line="338" column="64" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/Framework/Script/Act/Editor/ActEditor/ActEffectEditor.cs" timestamp="1552467569495">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="74" column="73" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/Entity/Unit.lua" timestamp="1552978329721">
+        <mark key="[" line="31" column="8" />
+        <mark key="]" line="31" column="10" />
+        <mark key="^" line="31" column="10" />
+        <mark key="." line="31" column="10" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/TFW/Net/MessageMgr.lua" timestamp="1552567152139">
+        <mark key="'" line="7" column="11" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="20" />
+        <mark key="^" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/Framework/Script/Map/API/MapAPI.cs" timestamp="1552471754386">
+        <mark key="[" line="130" column="28" />
+        <mark key="]" line="130" column="28" />
+        <mark key="^" line="130" column="28" />
+        <mark key="." line="130" column="28" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/Script/Logo/Logo.cs" timestamp="1552629949062">
+        <mark key="[" line="144" column="31" />
+        <mark key="]" line="145" column="28" />
+        <mark key="." line="145" column="28" />
+        <mark key="^" line="145" column="28" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/Control/TroopFighterDescription.lua" timestamp="1543409549126">
+        <mark key="'" line="11" column="59" />
+        <mark key="[" line="26" column="9" />
+        <mark key="]" line="26" column="31" />
+        <mark key="." line="26" column="31" />
+        <mark key="^" line="26" column="31" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/Script/Act/ActorMgr.cs" timestamp="1551937762985">
+        <mark key="'" line="105" column="18" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="15" column="18" />
+        <mark key="." line="15" column="18" />
+        <mark key="^" line="15" column="18" />
+      </file>
+      <file name="E:/gdy/Assets/Framework/Script/Debug/TDBOutputer/TDBOutput/TDBOutputToWinShell/LuaShellType.cs" timestamp="1552639225429">
+        <mark key="[" line="57" column="48" />
+        <mark key="]" line="57" column="69" />
+        <mark key="." line="57" column="69" />
+        <mark key="^" line="57" column="69" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Combat/CombatMap.lua" timestamp="1543482894091">
+        <mark key="'" line="20" column="4" />
+        <mark key="[" line="189" column="8" />
+        <mark key="]" line="189" column="77" />
+        <mark key="^" line="141" column="39" />
+        <mark key="." line="141" column="39" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Script/Manager/ObjectPool.cs" timestamp="1544518659930">
+        <mark key="'" line="137" column="8" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="^" line="104" column="25" />
+        <mark key="." line="105" column="0" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Script/GameRoot.cs" timestamp="1541665814444">
+        <mark key="'" line="126" column="8" />
+        <mark key="[" line="236" column="25" />
+        <mark key="]" line="238" column="29" />
+        <mark key="^" line="238" column="29" />
+        <mark key="." line="238" column="29" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RBattle.lua" timestamp="1552461365569">
+        <mark key="[" line="3" column="9" />
+        <mark key="]" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+        <mark key="^" line="5" column="28" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Utils/EventMgr.lua" timestamp="1544620741104">
+        <mark key="'" line="266" column="6" />
+        <mark key="[" line="61" column="5" />
+        <mark key="]" line="61" column="28" />
+        <mark key="^" line="223" column="17" />
+        <mark key="." line="61" column="5" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/UI/Control/PlayerTroopPopup.lua" timestamp="1552557393164">
+        <mark key="'" line="33" column="2" />
+        <mark key="[" line="36" column="19" />
+        <mark key="]" line="36" column="35" />
+        <mark key="^" line="36" column="18" />
+        <mark key="." line="36" column="19" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/Script/Map/MapLayerEntity.cs" timestamp="1552446142728">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="58" />
+        <mark key="^" line="53" column="15" />
+        <mark key="." line="54" column="0" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroList.lua" timestamp="1544618293925">
+        <mark key="'" line="9" column="6" />
+        <mark key="[" line="54" column="43" />
+        <mark key="]" line="54" column="62" />
+        <mark key="^" line="54" column="62" />
+        <mark key="." line="54" column="62" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D0107EDE-DA46-4B62-A3A4-8CFB7B3E0850/d5/ce9735f4/Vector3.cs" timestamp="1552979415713">
+        <mark key="[" line="446" column="24" />
+        <mark key="]" line="446" column="31" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Script/Utils/SkillMakerController.cs" timestamp="1543215094497">
+        <mark key="'" line="58" column="13" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="6" />
+        <mark key="^" line="9" column="6" />
+        <mark key="." line="9" column="6" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Formula/FTroop.lua" timestamp="1544856163195">
+        <mark key="'" line="296" column="22" />
+        <mark key="[" line="430" column="69" />
+        <mark key="]" line="430" column="73" />
+        <mark key="^" line="430" column="73" />
+        <mark key="." line="430" column="73" />
+      </file>
+      <file name="E:/gdy/Assets/Framework/Script/Mgr/UIMgr.cs" timestamp="1552639828540">
+        <mark key="[" line="164" column="23" />
+        <mark key="]" line="164" column="28" />
+        <mark key="^" line="164" column="28" />
+        <mark key="." line="164" column="28" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/UI/WndNPCPopup.lua" timestamp="1552964921447">
+        <mark key="[" line="30" column="47" />
+        <mark key="]" line="31" column="32" />
+        <mark key="^" line="31" column="32" />
+        <mark key="." line="31" column="32" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndAttributeResetConfirm.lua" timestamp="1543994837472">
+        <mark key="'" line="78" column="66" />
+        <mark key="[" line="55" column="15" />
+        <mark key="]" line="56" column="46" />
+        <mark key="." line="56" column="46" />
+        <mark key="^" line="56" column="46" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Editor/UIEditor/RadarChartEditor.cs" timestamp="1542768614894">
+        <mark key="'" line="25" column="4" />
+        <mark key="[" line="41" column="67" />
+        <mark key="]" line="41" column="72" />
+        <mark key="." line="41" column="72" />
+        <mark key="^" line="41" column="72" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/Framework/Script/Act/Editor/ActEditor/ActLinkEffectEditor.cs" timestamp="1552461923516">
+        <mark key="'" line="61" column="4" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="9" column="23" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Combat/Fighter.lua" timestamp="1545184897988">
+        <mark key="'" line="32" column="12" />
+        <mark key="[" line="188" column="0" />
+        <mark key="]" line="188" column="0" />
+        <mark key="^" line="162" column="12" />
+        <mark key="." line="188" column="0" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Test/NTBattle.lua" timestamp="1542786230877">
+        <mark key="'" line="189" column="22" />
+        <mark key="[" line="189" column="0" />
+        <mark key="]" line="189" column="64" />
+        <mark key="." line="197" column="46" />
+        <mark key="^" line="197" column="46" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RTroop.lua" timestamp="1552297518461">
+        <mark key="'" line="18" column="23" />
+        <mark key="[" line="121" column="4" />
+        <mark key="]" line="129" column="13" />
+        <mark key="." line="97" column="25" />
+        <mark key="^" line="97" column="25" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/Logic/LLogin.lua" timestamp="1552977403759">
+        <mark key="'" line="963" column="2" />
+        <mark key="[" line="446" column="4" />
+        <mark key="]" line="446" column="4" />
+        <mark key="^" line="446" column="5" />
+        <mark key="." line="446" column="4" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/Formula/FMap.lua" timestamp="1552112531264">
+        <mark key="'" line="613" column="19" />
+        <mark key="[" line="705" column="36" />
+        <mark key="]" line="705" column="59" />
+        <mark key="." line="705" column="59" />
+        <mark key="^" line="705" column="59" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/ModelIntroController.cs" timestamp="1542078927849">
+        <mark key="'" line="31" column="86" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="34" column="35" />
+      </file>
+      <file name="E:/gdy/Assets/Framework/Script/Act/ActSet.cs" timestamp="1552639027909" />
+      <file name="E:/gdy/Assets/Framework/Script/Act/Lib/ActLinkEffect.cs" timestamp="1552639655470">
+        <mark key="[" line="118" column="39" />
+        <mark key="]" line="118" column="44" />
+        <mark key="." line="118" column="44" />
+        <mark key="^" line="118" column="44" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/Logic/LMapEntityCity.lua" timestamp="1552629491473">
+        <mark key="'" line="8" column="11" />
+        <mark key="[" line="62" column="49" />
+        <mark key="]" line="62" column="90" />
+        <mark key="." line="62" column="90" />
+        <mark key="^" line="62" column="90" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/Logic/LMapEntityTroop.lua" timestamp="1552977704332">
+        <mark key="'" line="182" column="46" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="32" column="61" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/Script/Combat/LocationMgr.cs" timestamp="1552645779530">
+        <mark key="[" line="200" column="0" />
+        <mark key="]" line="200" column="0" />
+        <mark key="^" line="196" column="89" />
+        <mark key="." line="200" column="0" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/Control/HeroHeader.lua" timestamp="1544854327385">
+        <mark key="'" line="82" column="0" />
+        <mark key="[" line="159" column="52" />
+        <mark key="]" line="159" column="52" />
+        <mark key="." line="159" column="52" />
+        <mark key="^" line="159" column="52" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/UI/Control/PlayerTroopListItem.lua" timestamp="1552028152901">
+        <mark key="'" line="47" column="29" />
+        <mark key="[" line="32" column="28" />
+        <mark key="]" line="32" column="34" />
+        <mark key="^" line="32" column="34" />
+        <mark key="." line="32" column="34" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndTroopConfiguration.lua" timestamp="1544859408618">
+        <mark key="'" line="239" column="53" />
+        <mark key="[" line="126" column="46" />
+        <mark key="]" line="127" column="41" />
+        <mark key="^" line="127" column="41" />
+        <mark key="." line="127" column="41" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/HeroInfoPanel.lua" timestamp="1544617502253">
+        <mark key="'" line="43" column="73" />
+        <mark key="[" line="41" column="53" />
+        <mark key="]" line="42" column="57" />
+        <mark key="^" line="42" column="57" />
+        <mark key="." line="42" column="57" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/TFW/Utils/EventMgr.lua" timestamp="1552977506068">
+        <mark key="'" line="176" column="9" />
+        <mark key="[" line="59" column="29" />
+        <mark key="]" line="59" column="29" />
+        <mark key="." line="59" column="29" />
+        <mark key="^" line="59" column="29" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Formula/FMap.lua" timestamp="1544499091949">
+        <mark key="'" line="568" column="35" />
+        <mark key="[" line="565" column="10" />
+        <mark key="]" line="566" column="23" />
+        <mark key="^" line="566" column="23" />
+        <mark key="." line="566" column="23" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/TFW/Utils/FrameUpdateMgr.lua" timestamp="1552631950039">
+        <mark key="'" line="30" column="22" />
+        <mark key="[" line="90" column="4" />
+        <mark key="]" line="90" column="5" />
+        <mark key="." line="90" column="5" />
+        <mark key="^" line="90" column="5" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/Framework/Script/Common/TrackMgr.cs" timestamp="1552549849703">
+        <mark key="[" line="45" column="26" />
+        <mark key="]" line="45" column="31" />
+        <mark key="." line="45" column="31" />
+        <mark key="^" line="45" column="31" />
+      </file>
+      <file name="E:/gdy/Assets/Framework/Script/Act/ActDef.cs" timestamp="1552639000264">
+        <mark key="[" line="19" column="52" />
+        <mark key="]" line="23" column="59" />
+        <mark key="^" line="23" column="59" />
+        <mark key="." line="23" column="59" />
+      </file>
+      <file name="E:/gdy/Assets/Framework/Script/Debug/TDBOutputer/TDBOutput/TDBOutputToWinShell/LuaShellConsole.cs" timestamp="1552639194011">
+        <mark key="[" line="25" column="19" />
+        <mark key="]" line="25" column="19" />
+        <mark key="." line="25" column="19" />
+        <mark key="^" line="25" column="19" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Script/Combat/ActTrackEffect.cs" timestamp="1544172536144">
+        <mark key="'" line="53" column="8" />
+        <mark key="[" line="248" column="21" />
+        <mark key="]" line="248" column="90" />
+        <mark key="^" line="170" column="9" />
+        <mark key="." line="170" column="8" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndTroopDetail.lua" timestamp="1544856559475">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="131" column="49" />
+        <mark key="]" line="131" column="69" />
+        <mark key="^" line="131" column="69" />
+        <mark key="." line="131" column="69" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Formula/FActLuaFuncs.lua" timestamp="1545123689887">
+        <mark key="'" line="152" column="4" />
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="5" column="2" />
+        <mark key="^" line="5" column="2" />
+        <mark key="." line="5" column="2" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/TFW/Net/SendMgr.lua" timestamp="1552570462344">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntity.lua" timestamp="1552977714940">
+        <mark key="'" line="37" column="2" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="63" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Script/Combat/CombatSceneMgr.cs" timestamp="1542876713133">
+        <mark key="'" line="283" column="26" />
+        <mark key="[" line="17" column="66" />
+        <mark key="]" line="19" column="57" />
+        <mark key="." line="19" column="57" />
+        <mark key="^" line="19" column="57" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/UI/WndLoginDev.lua" timestamp="1552977497094">
+        <mark key="[" line="254" column="33" />
+        <mark key="]" line="254" column="56" />
+        <mark key="^" line="254" column="49" />
+        <mark key="." line="254" column="49" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/Entity/UnitGroup.lua" timestamp="1552978504070">
+        <mark key="'" line="24" column="18" />
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="11" column="31" />
+        <mark key="." line="11" column="31" />
+        <mark key="^" line="11" column="31" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/Framework/Script/Act/Lib/ActLinkEffect.cs" timestamp="1552461718562">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="155" column="23" />
+        <mark key="]" line="155" column="30" />
+        <mark key="^" line="155" column="30" />
+        <mark key="." line="155" column="30" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Combat/BattleContext.lua" timestamp="1545121400997">
+        <mark key="'" line="322" column="0" />
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="7" />
+        <mark key="." line="3" column="7" />
+        <mark key="^" line="3" column="7" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/Misc/performance.md" timestamp="1552717449525">
+        <mark key="[" line="8" column="33" />
+        <mark key="]" line="8" column="33" />
+        <mark key="^" line="7" column="32" />
+        <mark key="." line="8" column="33" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Script/UI/RadarChart.cs" timestamp="1542768380130">
+        <mark key="'" line="135" column="0" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="^" line="118" column="66" />
+        <mark key="." line="135" column="0" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Res/Combat/Data/scene_config.xml" timestamp="1543573169441">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="277" column="57" />
+        <mark key="]" line="277" column="60" />
+        <mark key="^" line="277" column="60" />
+        <mark key="." line="277" column="60" />
+      </file>
+      <file name="E:/gdy/Assets/Framework/Script/Act/Lib/ActAnimation.cs" timestamp="1552639557576">
+        <mark key="[" line="102" column="16" />
+        <mark key="]" line="102" column="21" />
+        <mark key="." line="102" column="21" />
+        <mark key="^" line="102" column="21" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/Logic/LMapEntity.lua" timestamp="1552976742950">
+        <mark key="'" line="9" column="11" />
+        <mark key="[" line="170" column="76" />
+        <mark key="]" line="170" column="76" />
+        <mark key="." line="170" column="76" />
+        <mark key="^" line="170" column="67" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Res/Combat/Data/model_config.xml" timestamp="1544523804935">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="406" column="35" />
+        <mark key="]" line="406" column="42" />
+        <mark key="^" line="402" column="33" />
+        <mark key="." line="406" column="35" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Script/Logo/Logo.cs" timestamp="1545113375034">
+        <mark key="'" line="136" column="26" />
+        <mark key="[" line="138" column="33" />
+        <mark key="]" line="138" column="37" />
+        <mark key="^" line="138" column="37" />
+        <mark key="." line="138" column="37" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Utils/ListViewHelper.lua" timestamp="1544767038605">
+        <mark key="'" line="301" column="9" />
+        <mark key="[" line="87" column="56" />
+        <mark key="]" line="87" column="55" />
+        <mark key="." line="87" column="55" />
+        <mark key="^" line="87" column="55" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndHeroDetail.lua" timestamp="1544605433151">
+        <mark key="'" line="273" column="93" />
+        <mark key="[" line="22" column="25" />
+        <mark key="]" line="22" column="31" />
+        <mark key="^" line="122" column="23" />
+        <mark key="." line="123" column="0" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Script/Combat/CombatMgr.cs" timestamp="1544164012318">
+        <mark key="'" line="119" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="54" column="22" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/Entity.lua" timestamp="1552963813974">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="12" />
+        <mark key="." line="3" column="12" />
+        <mark key="^" line="3" column="12" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndCityDetail.lua" timestamp="1544856606788">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="420" column="59" />
+        <mark key="]" line="420" column="76" />
+        <mark key="." line="420" column="59" />
+        <mark key="^" line="146" column="75" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/UI/WndMgr.lua" timestamp="1552555582469">
+        <mark key="'" line="133" column="0" />
+        <mark key="[" line="32" column="42" />
+        <mark key="]" line="33" column="36" />
+        <mark key="^" line="33" column="36" />
+        <mark key="." line="33" column="36" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndCombat.lua" timestamp="1545200645298">
+        <mark key="'" line="95" column="4" />
+        <mark key="[" line="439" column="54" />
+        <mark key="]" line="439" column="60" />
+        <mark key="." line="439" column="60" />
+        <mark key="^" line="439" column="60" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Logic/LTask.lua" timestamp="1543198031939">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="914" column="4" />
+        <mark key="]" line="914" column="5" />
+        <mark key="." line="914" column="5" />
+        <mark key="^" line="914" column="5" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndMgr.lua" timestamp="1544084524849">
+        <mark key="'" line="116" column="0" />
+        <mark key="[" line="324" column="4" />
+        <mark key="]" line="325" column="16" />
+        <mark key="." line="325" column="16" />
+        <mark key="^" line="325" column="16" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/UI/WndPlayerTroopList.lua" timestamp="1552033880387">
+        <mark key="'" line="29" column="29" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="67" />
+        <mark key="." line="5" column="38" />
+        <mark key="^" line="5" column="38" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/UI/WndWorld.lua" timestamp="1552974216991">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="509" column="58" />
+        <mark key="]" line="509" column="61" />
+        <mark key="." line="509" column="61" />
+        <mark key="^" line="509" column="61" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Res/GameConfig/local_comm.csv" timestamp="1545118867295">
+        <mark key="'" line="171" column="54" />
+        <mark key="[" line="561" column="0" />
+        <mark key="]" line="561" column="16" />
+        <mark key="^" line="561" column="81" />
+        <mark key="." line="561" column="81" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Utils/SCommon.lua" timestamp="1544583643045">
+        <mark key="'" line="846" column="17" />
+        <mark key="[" line="1161" column="16" />
+        <mark key="]" line="1161" column="31" />
+        <mark key="^" line="1161" column="31" />
+        <mark key="." line="1161" column="31" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Script/Combat/CombatRectMgr.cs" timestamp="1543572455253">
+        <mark key="'" line="348" column="22" />
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
+        <mark key="^" line="501" column="24" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/Framework/Script/Act/Editor/ActEditor/ActTrackEffectEditor.cs" timestamp="1552468409127">
+        <mark key="[" line="49" column="51" />
+        <mark key="]" line="49" column="69" />
+        <mark key="." line="49" column="69" />
+        <mark key="^" line="49" column="69" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Script/Manager/GameObjectPool.cs" timestamp="1541661148483">
+        <mark key="'" line="99" column="12" />
+        <mark key="[" line="159" column="86" />
+        <mark key="]" line="159" column="89" />
+        <mark key="." line="159" column="89" />
+        <mark key="^" line="159" column="89" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Render/UIHelper.lua" timestamp="1545200077259">
+        <mark key="'" line="152" column="25" />
+        <mark key="[" line="158" column="96" />
+        <mark key="]" line="158" column="102" />
+        <mark key="." line="158" column="102" />
+        <mark key="^" line="158" column="102" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/WndTroopDispatch.lua" timestamp="1544861293614">
+        <mark key="'" line="52" column="21" />
+        <mark key="[" line="146" column="60" />
+        <mark key="]" line="146" column="67" />
+        <mark key="." line="146" column="67" />
+        <mark key="^" line="146" column="67" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/Unit.lua" timestamp="1552963720508">
+        <mark key="'" line="11" column="36" />
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Tools/IOS/build_ios.sh" timestamp="1552545358940">
+        <mark key="[" line="9" column="116" />
+        <mark key="]" line="11" column="11" />
+        <mark key="^" line="11" column="11" />
+        <mark key="." line="11" column="11" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/Script/Map/Comp/MapMarchView.cs" timestamp="1552552837391">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="16" />
+        <mark key="^" line="2" column="16" />
+        <mark key="." line="2" column="16" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/Framework/Script/Map/Map/Controller/WorldMapDrag.cs" timestamp="1552628685071">
+        <mark key="[" line="44" column="57" />
+        <mark key="]" line="44" column="57" />
+        <mark key="^" line="43" column="17" />
+        <mark key="." line="44" column="57" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Script/Combat/ActorRenderer.cs" timestamp="1544164435575">
+        <mark key="'" line="8" column="13" />
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="165" column="16" />
+        <mark key="." line="165" column="16" />
+        <mark key="^" line="165" column="16" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/Logic/LMarch.lua" timestamp="1552113615532">
+        <mark key="'" line="185" column="2" />
+        <mark key="[" line="42" column="43" />
+        <mark key="]" line="42" column="52" />
+        <mark key="." line="42" column="52" />
+        <mark key="^" line="42" column="52" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/Logic/LBattle.lua" timestamp="1552546101475">
+        <mark key="'" line="5" column="11" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="47" />
+        <mark key="^" line="48" column="5" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Script/Utils/DelayShow.cs" timestamp="1542788790231">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="9" />
+        <mark key="." line="15" column="9" />
+        <mark key="^" line="15" column="9" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/Framework/Script/Mgr/XLuaMgr.cs" timestamp="1552630040698">
+        <mark key="'" line="17" column="24" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="26" column="13" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Script/Utils/MixedValue.cs" timestamp="1542336030698">
+        <mark key="'" line="15" column="21" />
+        <mark key="[" line="465" column="12" />
+        <mark key="]" line="465" column="54" />
+        <mark key="^" line="465" column="54" />
+        <mark key="." line="465" column="54" />
+      </file>
+      <file name="E:/gdy/Assets/Framework/Script/Act/Actor.cs" timestamp="1552639532810">
+        <mark key="'" line="5" column="22" />
+        <mark key="[" line="482" column="16" />
+        <mark key="]" line="482" column="21" />
+        <mark key="^" line="482" column="21" />
+        <mark key="." line="482" column="21" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Editor/Build/JenkinsAdapter.cs" timestamp="1545193114908">
+        <mark key="'" line="201" column="74" />
+        <mark key="[" line="201" column="72" />
+        <mark key="]" line="201" column="74" />
+        <mark key="." line="201" column="74" />
+        <mark key="^" line="201" column="74" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/march-battle-solution.md" timestamp="1552542905470">
+        <mark key="'" line="14" column="7" />
+        <mark key="[" line="38" column="29" />
+        <mark key="]" line="38" column="29" />
+        <mark key="^" line="40" column="11" />
+        <mark key="." line="38" column="29" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Combat/SCombatMgr.lua" timestamp="1545121443469">
+        <mark key="'" line="207" column="11" />
+        <mark key="[" line="20" column="17" />
+        <mark key="]" line="20" column="35" />
+        <mark key="." line="20" column="35" />
+        <mark key="^" line="20" column="35" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Logic/LGameInit.lua" timestamp="1544580115818">
+        <mark key="'" line="84" column="31" />
+        <mark key="[" line="115" column="23" />
+        <mark key="]" line="115" column="24" />
+        <mark key="." line="115" column="24" />
+        <mark key="^" line="115" column="24" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/Editor/Extend/MenuOptionsBolckComponent.cs" timestamp="1552568034355">
+        <mark key="[" line="79" column="10" />
+        <mark key="]" line="79" column="10" />
+        <mark key="^" line="84" column="9" />
+        <mark key="." line="79" column="10" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Formula/FHero.lua" timestamp="1545030281140">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="230" column="26" />
+        <mark key="]" line="230" column="35" />
+        <mark key="^" line="230" column="35" />
+        <mark key="." line="230" column="35" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/Res/Protobuf/msgid.def" timestamp="1552567450935">
+        <mark key="'" line="44" column="17" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/EntityFactory.lua" timestamp="1552979545000">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="171" column="27" />
+        <mark key="]" line="172" column="28" />
+        <mark key="." line="172" column="28" />
+        <mark key="^" line="172" column="28" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/EntityResource.lua" timestamp="1552718434515">
+        <mark key="[" line="24" column="23" />
+        <mark key="]" line="24" column="23" />
+        <mark key="^" line="24" column="23" />
+        <mark key="." line="24" column="23" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/Script/Map/MapMgrLayer.cs" timestamp="1552446503372">
+        <mark key="[" line="17" column="18" />
+        <mark key="]" line="18" column="14" />
+        <mark key="^" line="18" column="14" />
+        <mark key="." line="18" column="14" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Render/ImageMgr.lua" timestamp="1544771782560">
+        <mark key="'" line="60" column="28" />
+        <mark key="[" line="84" column="56" />
+        <mark key="]" line="84" column="61" />
+        <mark key="." line="84" column="61" />
+        <mark key="^" line="84" column="61" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Editor/SluaBuilder/CustomExport.cs" timestamp="1543483296692">
+        <mark key="'" line="153" column="23" />
+        <mark key="[" line="153" column="55" />
+        <mark key="]" line="153" column="55" />
+        <mark key="^" line="153" column="55" />
+        <mark key="." line="153" column="55" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/Entity/Troop.lua" timestamp="1552978516310">
+        <mark key="'" line="18" column="32" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Script/Combat/LocationMgr.cs" timestamp="1543563332974">
+        <mark key="'" line="128" column="4" />
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="32" />
+        <mark key="." line="121" column="0" />
+        <mark key="^" line="103" column="76" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMarchLine.lua" timestamp="1552962704978">
+        <mark key="'" line="103" column="0" />
+        <mark key="[" line="116" column="11" />
+        <mark key="]" line="116" column="14" />
+        <mark key="^" line="116" column="14" />
+        <mark key="." line="116" column="14" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/BlogHandlers.lua" timestamp="1552551585513">
+        <mark key="'" line="31" column="2" />
+        <mark key="[" line="30" column="63" />
+        <mark key="]" line="30" column="84" />
+        <mark key="^" line="30" column="84" />
+        <mark key="." line="30" column="84" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" timestamp="1552977728010">
+        <mark key="'" line="367" column="110" />
+        <mark key="[" line="414" column="0" />
+        <mark key="]" line="414" column="0" />
+        <mark key="." line="414" column="0" />
+        <mark key="^" line="414" column="73" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D0107EDE-DA46-4B62-A3A4-8CFB7B3E0850/ce/cd5ea124/Camera.cs" timestamp="1552556433531">
+        <mark key="[" line="567" column="19" />
+        <mark key="]" line="567" column="36" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/UnitGroup.lua" timestamp="1552720983956">
+        <mark key="'" line="32" column="10" />
+        <mark key="[" line="92" column="74" />
+        <mark key="]" line="92" column="87" />
+        <mark key="." line="92" column="87" />
+        <mark key="^" line="92" column="87" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/Combat/BlogParsers.lua" timestamp="1545121484970">
+        <mark key="'" line="184" column="12" />
+        <mark key="[" line="675" column="25" />
+        <mark key="]" line="675" column="43" />
+        <mark key="^" line="675" column="43" />
+        <mark key="." line="675" column="43" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/Framework/Script/Act/ActorMgr.cs" timestamp="1552977284461">
+        <mark key="'" line="10" column="24" />
+        <mark key="[" line="76" column="26" />
+        <mark key="]" line="76" column="31" />
+        <mark key="^" line="76" column="31" />
+        <mark key="." line="76" column="31" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/HeroPropertyPanel.lua" timestamp="1544755339764">
+        <mark key="'" line="284" column="19" />
+        <mark key="[" line="198" column="19" />
+        <mark key="]" line="198" column="36" />
+        <mark key="^" line="198" column="47" />
+        <mark key="." line="198" column="19" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityCity.lua" timestamp="1552728328858">
+        <mark key="'" line="5" column="11" />
+        <mark key="[" line="18" column="38" />
+        <mark key="]" line="18" column="41" />
+        <mark key="^" line="18" column="41" />
+        <mark key="." line="18" column="41" />
+      </file>
+      <file name="E:/gdy/Assets/Framework/Script/Act/Lib/ActAreaEffect.cs" timestamp="1552639593511">
+        <mark key="[" line="210" column="30" />
+        <mark key="]" line="210" column="35" />
+        <mark key="." line="210" column="35" />
+        <mark key="^" line="210" column="35" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/Framework/Script/Act/Lib/ActTrackEffect.cs" timestamp="1552549759829">
+        <mark key="'" line="61" column="24" />
+        <mark key="[" line="141" column="51" />
+        <mark key="]" line="141" column="59" />
+        <mark key="." line="141" column="59" />
+        <mark key="^" line="141" column="59" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/Utils/HeroInfoPanel.lua" timestamp="1542194986162">
+        <mark key="'" line="20" column="43" />
+        <mark key="[" line="32" column="30" />
+        <mark key="]" line="32" column="42" />
+        <mark key="." line="32" column="42" />
+        <mark key="^" line="32" column="42" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/Entity/EntityResource.lua" timestamp="1552978384184" />
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/Control/StateBar.lua" timestamp="1545036948941">
+        <mark key="'" line="96" column="9" />
+        <mark key="[" line="5" column="52" />
+        <mark key="]" line="5" column="52" />
+        <mark key="." line="5" column="52" />
+        <mark key="^" line="5" column="52" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/Logic/FakeBattleServer.lua" timestamp="1552459345242">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="175" column="44" />
+        <mark key="]" line="175" column="73" />
+        <mark key="." line="175" column="73" />
+        <mark key="^" line="175" column="73" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Editor/BattleEditor/BattleEditorManager.cs" timestamp="1542093614565">
+        <mark key="'" line="26" column="23" />
+        <mark key="[" line="156" column="71" />
+        <mark key="]" line="156" column="71" />
+        <mark key="." line="156" column="71" />
+        <mark key="^" line="156" column="71" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMarch.lua" timestamp="1552123016745">
+        <mark key="'" line="122" column="8" />
+        <mark key="[" line="122" column="8" />
+        <mark key="]" line="122" column="9" />
+        <mark key="." line="122" column="9" />
+        <mark key="^" line="122" column="9" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/Control/TroopFighterStateBar.lua" timestamp="1544767144138">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="27" column="49" />
+        <mark key="]" line="27" column="68" />
+        <mark key="." line="27" column="68" />
+        <mark key="^" line="27" column="68" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Script/Utils/MeshRectBuilder.cs" timestamp="1544427221463">
+        <mark key="'" line="128" column="8" />
+        <mark key="[" line="88" column="4" />
+        <mark key="]" line="88" column="8" />
+        <mark key="." line="88" column="8" />
+        <mark key="^" line="88" column="8" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/LuaRoot.lua" timestamp="1552632131442">
+        <mark key="'" line="40" column="27" />
+        <mark key="[" line="67" column="21" />
+        <mark key="]" line="68" column="30" />
+        <mark key="^" line="68" column="30" />
+        <mark key="." line="68" column="30" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/Framework/Script/Act/ActMgrData.cs" timestamp="1552460980373">
+        <mark key="'" line="13" column="32" />
+        <mark key="[" line="222" column="91" />
+        <mark key="]" line="223" column="28" />
+        <mark key="." line="223" column="28" />
+        <mark key="^" line="223" column="28" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Script/Combat/ActFocus.cs" timestamp="1542349485685">
+        <mark key="'" line="26" column="8" />
+        <mark key="[" line="40" column="50" />
+        <mark key="]" line="40" column="62" />
+        <mark key="^" line="40" column="62" />
+        <mark key="." line="40" column="62" />
+      </file>
+      <file name="E:/TFW/trunk/client/TFW/Assets/LuaCode/UI/WndMapUI.lua" timestamp="1552633611267">
+        <mark key="'" line="23" column="19" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+      </file>
+      <file name="E:/N1/client/N1/Assets/Slua/SluaCode/UI/Control/HeroListScrollItem.lua" timestamp="1544618516351">
+        <mark key="'" line="63" column="17" />
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="1" column="19" />
+        <mark key="^" line="2" column="20" />
+        <mark key="." line="1" column="19" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="158" column="33" filename="E:/gdy/Assets/Framework/Script/Act/Lib/ActEffect.cs" />
+      <jump line="170" column="33" filename="E:/gdy/Assets/Framework/Script/Act/Lib/ActEffect.cs" />
+      <jump line="5" column="10" filename="E:/gdy/Assets/Framework/Script/Act/Lib/ActEffect.cs" />
+      <jump line="93" column="24" filename="E:/gdy/Assets/Framework/Script/Act/Lib/ActEffect.cs" />
+      <jump line="53" column="27" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/Unit.lua" />
+      <jump line="378" column="7" filename="E:/TFW/trunk/client/TFW/Assets/Framework/Script/Act/Actor.cs" />
+      <jump line="5" column="11" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/Unit.lua" />
+      <jump line="96" column="32" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/Troop.lua" />
+      <jump line="5" column="11" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityCity.lua" />
+      <jump line="74" column="41" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/Troop.lua" />
+      <jump line="100" column="29" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/Troop.lua" />
+      <jump line="118" column="35" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/Troop.lua" />
+      <jump line="6" column="0" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/Formations.lua" />
+      <jump line="87" column="24" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/Troop.lua" />
+      <jump line="32" column="10" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/UnitGroup.lua" />
+      <jump line="78" column="15" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/Troop.lua" />
+      <jump line="82" column="10" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/Troop.lua" />
+      <jump line="54" column="2" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMarchLine.lua" />
+      <jump line="7" column="11" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" />
+      <jump line="406" column="19" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" />
+      <jump line="405" column="19" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" />
+      <jump line="438" column="19" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" />
+      <jump line="17" column="23" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" />
+      <jump line="26" column="15" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" />
+      <jump line="140" column="19" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" />
+      <jump line="22" column="17" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/Unit.lua" />
+      <jump line="7" column="3" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/EntityCity.lua" />
+      <jump line="27" column="0" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/EntityCity.lua" />
+      <jump line="11" column="36" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/Unit.lua" />
+      <jump line="398" column="14" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" />
+      <jump line="123" column="14" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" />
+      <jump line="399" column="28" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" />
+      <jump line="430" column="14" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" />
+      <jump line="102" column="31" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/Troop.lua" />
+      <jump line="14" column="4" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/Troop.lua" />
+      <jump line="289" column="25" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" />
+      <jump line="124" column="14" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" />
+      <jump line="400" column="14" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" />
+      <jump line="432" column="14" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" />
+      <jump line="96" column="30" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" />
+      <jump line="105" column="16" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" />
+      <jump line="92" column="14" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" />
+      <jump line="80" column="0" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" />
+      <jump line="91" column="14" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" />
+      <jump line="95" column="30" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" />
+      <jump line="72" column="0" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" />
+      <jump line="90" column="14" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" />
+      <jump line="94" column="30" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" />
+      <jump line="89" column="13" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" />
+      <jump line="281" column="14" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" />
+      <jump line="356" column="15" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" />
+      <jump line="360" column="20" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" />
+      <jump line="364" column="34" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" />
+      <jump line="372" column="110" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" />
+      <jump line="124" column="5" filename="E:/TFW/trunk/client/TFW/Assets/Editor/XLua/XLuaExport.cs" />
+      <jump line="48" column="8" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" />
+      <jump line="85" column="57" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" />
+      <jump line="279" column="0" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" />
+      <jump line="42" column="0" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" />
+      <jump line="46" column="0" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" />
+      <jump line="276" column="14" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" />
+      <jump line="351" column="15" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" />
+      <jump line="355" column="20" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" />
+      <jump line="359" column="34" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" />
+      <jump line="367" column="110" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMapEntityTroop.lua" />
+      <jump line="30" column="65" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMarchLine.lua" />
+      <jump line="118" column="0" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMarchLine.lua" />
+      <jump line="142" column="25" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMarchLine.lua" />
+      <jump line="160" column="3" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMarchLine.lua" />
+      <jump line="103" column="0" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/RMarchLine.lua" />
+      <jump line="7" column="0" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/EntityFactory.lua" />
+      <jump line="64" column="14" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Logic/LMapEntity.lua" />
+      <jump line="268" column="37" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Logic/LMapEntity.lua" />
+      <jump line="52" column="38" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Logic/LMapEntity.lua" />
+      <jump line="55" column="16" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Logic/LMapEntity.lua" />
+      <jump line="61" column="15" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Logic/LMapEntity.lua" />
+      <jump line="78" column="14" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Logic/LMapEntity.lua" />
+      <jump line="256" column="15" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Logic/LMapEntity.lua" />
+      <jump line="259" column="5" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Logic/LMapEntity.lua" />
+      <jump line="65" column="2" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Logic/LMapEntity.lua" />
+      <jump line="4" column="11" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/UI/WndWorld.lua" />
+      <jump line="514" column="0" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/UI/WndWorld.lua" />
+      <jump line="0" column="0" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/UI/WndWorld.lua" />
+      <jump line="9" column="11" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Logic/LMapEntity.lua" />
+      <jump line="17" column="16" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/Entity/Entity.lua" />
+      <jump line="10" column="24" filename="E:/TFW/trunk/client/TFW/Assets/Framework/Script/Act/ActorMgr.cs" />
+      <jump line="118" column="2" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/LuaRootInit.lua" />
+      <jump line="174" column="2" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/LuaRootInit.lua" />
+      <jump line="58" column="17" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/LuaRootInit.lua" />
+      <jump line="0" column="8" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/Entity/Unit.lua" />
+      <jump line="31" column="0" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/Entity/Unit.lua" />
+      <jump line="11" column="31" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/Entity/UnitGroup.lua" />
+      <jump line="164" column="4" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/Entity/UnitGroup.lua" />
+      <jump line="9" column="23" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/Entity/UnitGroup.lua" />
+      <jump line="18" column="36" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/Entity/UnitGroup.lua" />
+      <jump line="24" column="18" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/Entity/UnitGroup.lua" />
+      <jump line="34" column="18" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/Entity/Troop.lua" />
+      <jump line="155" column="4" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/Entity/Troop.lua" />
+      <jump line="5" column="19" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/Entity/Troop.lua" />
+      <jump line="18" column="32" filename="E:/TFW/trunk/client/TFW/Assets/LuaCode/Render/Entity/Troop.lua" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICogcmFkaXVz</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">ICogcmFkaXVz</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxFbnRpdHlcPg==</text>
+      </register>
+      <register name="0" type="4">
+        <text>Distance</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>--- 获取ID
+function Unit:GetID()
+    return self.id
+end
+
+--- 获取标志ID
+function Unit:GetSymbolicID()
+    return self:GetID()
+end
+
+--- 设置父节点
+function Unit:SetParent(transform)
+    self.actor:SetParent(transform)
+end
+
+--- 设置位置
+function Unit:SetPosition(position)
+    self.position = position
+    self.actor:SetPosition(position + Unit.POSITION_OFFSET)
+end
+
+--- 转向方向
+function Unit:LookDirection(direction)
+end
+
+--- 转向某点
+function Unit:LookAt(position)
+end
+
+--- 获取位置
+function Unit:GetPosition()
+    return self.position
+end
+
+--- 获取Transform
+function Unit:GetTransform()
+    return self.actor.ActorTransform
+end
+
+--- 设置缩放
+function Unit:SetScale(scale)
+    self.actor:SetScale(scale)
+end
+
+--- 设置可见性
+function Unit:SetActive(active)
+    self.actor:SetActive(active)
+end
+
+--- 播放动画
+function Unit:PlayAnimation(name)
+    self.actor:PlayAnimation(name)
+end
+
+--- 销毁
+function Unit:Destroy()
+    ActorMgr.DestroyActor(self.id)
+end</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="4">
+        <text>-- 加载Actor
+    local actor = ActorMgr.CreateActor(id, assetPath)
+    unit.actor = actor</text>
+      </register>
+      <register name="8" type="4">
+        <text>{
+        id = id
+    }</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaW50KCdbUk1hcEVudGl0eVRyb29wXSBQcm9jZXNzRW50aXR5VXBkYXRlICVzJywgZW50aXR5SW5mby5lbnRpdHkuSUQpCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxFbnRpdHlcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxFbnRpdHlcPg==</last-pattern>
+      <last-replace>Unit</last-replace>
+      <last-substitute>Entity</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>default</entry>
+        <entry encoding="base64">XDxBZGRVbml0c1w+</entry>
+        <entry encoding="base64">XDxBcHBseUZvcm1hdGlvblw+</entry>
+        <entry encoding="base64">XDxDcmVhdGVMaW5lXD4=</entry>
+        <entry encoding="base64">XDxSZW1vdmVMaW5lXD4=</entry>
+        <entry>createline</entry>
+        <entry encoding="base64">XDxTZXRQb3NpdGlvblw+</entry>
+        <entry encoding="base64">XDxQT1NJVElPTl9PRkZTRVRcPg==</entry>
+        <entry encoding="base64">XDxMb29rQXRcPg==</entry>
+        <entry encoding="base64">XDxjb3VudGVyRWZmZWN0XD4=</entry>
+        <entry encoding="base64">XDxjb3VudGVyVGltZVw+</entry>
+        <entry encoding="base64">XDxjdXJyZW50RHVydGlvblRpbWVcPg==</entry>
+        <entry encoding="base64">XDxkdXJ0aW9uVGltZVw+</entry>
+        <entry encoding="base64">XDxzcGVlZFw+</entry>
+        <entry encoding="base64">XDxsb2NrXD4=</entry>
+        <entry encoding="base64">XDxsb2NhbFN0YXRlc1w+</entry>
+        <entry>actormgr</entry>
+        <entry>rmapentity</entry>
+        <entry>Entity</entry>
+        <entry encoding="base64">XDxFbnRpdHlcPg==</entry>
+      </history-search>
+      <history-cmd>
+        <entry>%s/WndPlayerTroopPopup/WndPlayerTroopList/gc</entry>
+        <entry>%s/PlayerListItem/PlayerTroopListItem/gc</entry>
+        <entry>Lw</entry>
+        <entry>%s/WndPlayerTroopPopup/WndNPCPopup/gc</entry>
+        <entry>we</entry>
+        <entry>ww</entry>
+        <entry>action QuickJavaDoc</entry>
+        <entry>%s/PlayerTroopListItem/PlayerTroopPopup/gc</entry>
+        <entry>%s/WndPlayerTroopPopup/PlayerTroopPopup/gc</entry>
+        <entry>set ignorecase</entry>
+        <entry>vwsp</entry>
+        <entry>W</entry>
+        <entry>w:w</entry>
+        <entry>ew</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>vsp</entry>
+        <entry>q</entry>
+        <entry>%s/Entity/Unit/gc</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
