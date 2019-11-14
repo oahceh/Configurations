@@ -43,7 +43,6 @@ Plugin 'AutoComplPop'
 call vundle#end()
 filetype plugin indent on
 
-
 let g:ctrlp_working_path_mode = 0
 let g:ctrlp_custom_ignore = {
     \ 'dir': '\v[\/]\.(git|hg|svn)$',
@@ -59,41 +58,3 @@ let NERDTreeWinSize=21
 let g:nerdtree_tabs_open_on_console_startup=1
 let NERDTreeIgnore=['\.pyc','\~$','\.swp','\.meta']
 let NERDTreeShowBookmarks=1
-
-iab xcr <c-r>=strftime("-- Created by hechao 20%y-%m-%d")<cr>
-iab xlm <c-r>=strftime("-- Last modified by hechao 20%y-%m-%d")<cr>
-
-function AddTitle()
-    call append(0, "-- ".expand("%:t"))
-    call append(1, "-- Created by hechao ".strftime("%Y-%m-%d %H:%M:%S"))
-    call append(2, "-- Last modified by hechao ".strftime("%Y-%m-%d %H:%M:%S"))
-    call append(3, "--")
-endf
-
-function UT()
-    let s:lmb_leader = '-- Last modified by'
-    let s:dt_format = '%Y-%m-%d %H:%M:%S'
-    let s:begin_line = 0
-    exe s:begin_line
-    let line_num = search(s:lmb_leader, '', 10)
-    let line = getline(line_num)
-    let line = substitute(line, line, s:lmb_leader . ' hechao ' . strftime(s:dt_format), '')
-    call setline(line_num, line)
-endfunction
-
-"?ж?ǰ10?д??????棬?Ƿ???Last modified???����ʣ?
-function TitleDet()
-    let n=1
-    "Ĭ??Ϊ????
-    while n < 10
-        let line = getline(n)
-        if line =~ '-- Last modified.*$'
-            call UT()
-            return
-        endif
-        let n = n + 1
-    endwhile
-    call AddTitle()
-endfunction
-
-map <F4> :call TitleDet()<cr>
